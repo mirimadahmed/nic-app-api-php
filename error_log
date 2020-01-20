@@ -1,0 +1,51 @@
+[17-Jan-2020 06:36:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/returnma/public_html/bookable/nic/api/startups.php on line 69
+[17-Jan-2020 06:37:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/returnma/public_html/bookable/nic/api/startups.php on line 70
+[17-Jan-2020 06:38:08 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/returnma/public_html/bookable/nic/api/startups.php on line 73
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 18
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 50
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 51
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 60
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 61
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 50
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 51
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 60
+[17-Jan-2020 07:48:11 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 61
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 21
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 53
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 54
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 63
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 64
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 53
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 54
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 63
+[17-Jan-2020 07:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 64
+[17-Jan-2020 07:49:49 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 53
+[17-Jan-2020 07:49:49 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 54
+[17-Jan-2020 07:49:49 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 63
+[17-Jan-2020 07:49:49 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 64
+[17-Jan-2020 07:49:49 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 53
+[17-Jan-2020 07:49:49 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 54
+[17-Jan-2020 07:49:49 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 63
+[17-Jan-2020 07:49:49 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 64
+[17-Jan-2020 08:30:18 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 59
+[17-Jan-2020 08:30:18 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 60
+[17-Jan-2020 08:30:18 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 69
+[17-Jan-2020 08:30:18 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 70
+[17-Jan-2020 08:30:18 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 59
+[17-Jan-2020 08:30:18 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 60
+[17-Jan-2020 08:30:18 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 69
+[17-Jan-2020 08:30:18 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 70
+[17-Jan-2020 08:38:39 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 59
+[17-Jan-2020 08:38:39 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 60
+[17-Jan-2020 08:38:39 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 69
+[17-Jan-2020 08:38:39 UTC] PHP Warning:  Attempt to modify property of non-object in /home3/returnma/public_html/bookable/nic/api/add_startup.php on line 70
+[17-Jan-2020 11:30:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Aws\S3\S3Client' not found in /home3/returnma/public_html/bookable/nic/api/database.php:17
+Stack trace:
+#0 /home3/returnma/public_html/bookable/nic/api/upload_logo.php(6): uploadToS3('logos', 'pp.jpg', '/tmp/phpBGlOrp')
+#1 {main}
+  thrown in /home3/returnma/public_html/bookable/nic/api/database.php on line 17
+[17-Jan-2020 11:32:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Aws\S3\S3Client' not found in /home3/returnma/public_html/bookable/nic/api/database.php:17
+Stack trace:
+#0 /home3/returnma/public_html/bookable/nic/api/upload_logo.php(6): uploadToS3('logos', 'pp.jpg', '/tmp/phpJqzw0V')
+#1 {main}
+  thrown in /home3/returnma/public_html/bookable/nic/api/database.php on line 17
