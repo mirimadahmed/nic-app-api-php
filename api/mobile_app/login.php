@@ -2,7 +2,7 @@
 include '../database.php';
 $email = $_GET['email'];
 $password = $_GET['password'];
-$stmt = $con->prepare("SELECT id,name,email,type from users where email = ? AND password = ?");
+$stmt = $con->prepare("SELECT id,name,email,type,picture from users where email = ? AND password = ?");
 $stmt->bindParam(1, $email, PDO::PARAM_STR);
 $stmt->bindParam(2, $password, PDO::PARAM_STR);
 $stmt->execute();

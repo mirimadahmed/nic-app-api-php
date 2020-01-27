@@ -14,8 +14,32 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
     	{
     	    while($row = $stmt->fetchObject()) 
 		    {
-		        $startup = array();
-		        $startup = $row;
+				
+				
+
+				$startup = array();
+				$startup = $row;
+				$stmt1 = $con->prepare('SELECT note from user_notes where user_id = ? AND startup_id = ?');
+				$stmt1->bindParam(1, $user_id, PDO::PARAM_INT);
+				$stmt1->bindParam(2, $row->id, PDO::PARAM_STR);
+				$stmt1->execute();
+				if ($stmt1->rowCount() > 0) 
+				{
+					while($row1 = $stmt1->fetchObject()) 
+					{
+						$startup->note = $row1->note;
+					}
+				}
+				else {
+					$startup->note = "";
+				}
+
+
+
+
+
+
+		        
 		        $stmt1 = $con->prepare('SELECT * from favorites where user_id = ? AND startup_id = ?');
             	$stmt1->bindParam(1, $user_id, PDO::PARAM_INT);
             	$stmt1->bindParam(2, $startup->id, PDO::PARAM_INT);

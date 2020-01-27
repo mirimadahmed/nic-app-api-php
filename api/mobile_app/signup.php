@@ -27,7 +27,7 @@ if(isset($_GET['name']) && isset($_GET['email']) && isset($_GET['password']))
 
             $user_id =  $con->lastInsertId();            
 
-            $stmt = $con->prepare("SELECT id,name,email,type FROM users where id = ?");
+            $stmt = $con->prepare("SELECT id,name,email,type,picture FROM users where id = ?");
             $stmt->bindParam(1, $user_id, PDO::PARAM_STR);
             $stmt->execute();
             if($stmt->rowCount() > 0)
